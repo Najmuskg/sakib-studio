@@ -1,0 +1,5 @@
+html, body {
+  @apply text-lightWhite font-Poppins text-base;
+  background: radial-gradient(circle at 50% 20%, #111827 0%, #020617 60%, #000000 100%);
+   scroll-behavior: smooth;
+}

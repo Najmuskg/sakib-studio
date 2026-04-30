@@ -1,0 +1,17 @@
+@theme {
+  /* Font */
+  --font-Poppins: "Poppins", sans-serif;
+
+  /* Colour */
+  --color-red: #ff3b30;
+  --color-deepGray: #1c1c1e;
+  --color-lightGray: #2c2c2e;
+  --color-gray: #8e8e93;
+  --color-lightWhite: #f8f8f8;
+  --color-green: #34c759;
+
+  /* Text */
+  --text-32: 32px;
+  --text-40: 40px;
+  --text-64: 64px;
+}
