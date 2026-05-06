@@ -9,7 +9,7 @@ export default function Hero() {
     <section className="h-screen relative flex items-center justify-center text-center px-6 overflow-hidden">
 
       {/* 3D BACKGROUND */}
-      <div className="absolute inset-0 w-full h-full z-0">
+      <div className="fixed inset-0 w-full h-full z-0">
         <HeroScene />
         {/* <InfrastructureScene /> */}
       </div>

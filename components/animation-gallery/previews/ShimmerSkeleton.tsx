@@ -1,0 +1,1 @@
+export default ()=> <div style={{height:10,width:80,background:"#333"}}/>

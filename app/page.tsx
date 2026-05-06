@@ -6,6 +6,7 @@ import Skills from "@/components/Skills";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
 import Navbar from "@/components/Navbar";
+import AnimationGallery from "@/components/AnimationGallery";
 
 export default function Page() {
   return (
@@ -13,6 +14,7 @@ export default function Page() {
       <Navbar />
 
       <Hero />
+      <AnimationGallery />
 
       <Projects id="work" />
 
